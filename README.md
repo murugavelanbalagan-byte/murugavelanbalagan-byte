@@ -4,7 +4,7 @@ Quality Engineering and Test Automation professional focused on building scalabl
 
 ## 🔧 Technical Focus
 
-- **Test Automation:** Playwright, TypeScript, JavaScript, Selenium, REST Assured
+- **Test Automation:** Playwright, TypeScript/JavaScript, Selenium, REST Assured
 - **API & Integration Testing:** REST APIs, Contract Testing, Postman
 - **CI/CD & DevOps:** GitHub Actions, Jenkins, Docker, Kubernetes
 - **Quality Engineering:** Test Strategy, Shift-Left Testing, Risk-Based Testing, Release Quality
@@ -15,7 +15,7 @@ Quality Engineering and Test Automation professional focused on building scalabl
 
 ### 🎭 Playwright Enterprise Automation Framework
 
-Enterprise-style Playwright + TypeScript automation framework demonstrating modern quality engineering practices.
+Enterprise-style Playwright + TypeScript/JavaScript automation framework demonstrating modern quality engineering practices.
 
 **Highlights:** UI & API automation • Page Object Model • Cross-browser testing • Parallel execution • Failure diagnostics • GitHub Actions CI/CD
 
